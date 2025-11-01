@@ -1,0 +1,147 @@
+# Operating System Files
+# -----------------------
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# Editor Files
+# ------------
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+.history/
+*.vsix
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.idea_modules/
+
+# Vim
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+Session.vim
+Sessionx.vim
+.netrwhist
+*~
+tags
+[._]*.un~
+
+# Backup Files
+# ------------
+*.bak
+*.backup
+*.old
+*.orig
+*.tmp
+*.temp
+
+# Archive Files
+# -------------
+*.zip
+*.tar.gz
+*.tar
+*.rar
+*.7z
+
+# Log Files
+# ---------
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build Artifacts
+# ---------------
+dist/
+build/
+*.pyc
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+
+# Node
+# ----
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python
+# ------
+venv/
+env/
+ENV/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Documentation Build
+# -------------------
+_build/
+*.pdf
+!docs/*.pdf
+
+# Security
+# --------
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.cer
+*.crt
+*.p12
+
+# Custom
+# ------
+drafts/
+private/
+todo.md
+notes.txt
