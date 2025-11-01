@@ -34,6 +34,14 @@ All research papers are located in the [`/docs`](./docs) folder.
   - Partition planning and optimization
   - Cross-platform compatibility
 
+## 🔗 Related Projects
+
+Check out these related repositories for practical implementations:
+- [dual-boot-linux-mint-windows11](https://github.com/Nerds489/dual-boot-linux-mint-windows11) - Professional dual-boot setup framework
+- [linux-beginners-setup](https://github.com/Nerds489/linux-beginners-setup) - Complete Linux Mint/Ubuntu setup suite
+- [linux-portable-usb-tools](https://github.com/Nerds489/ubuntu-tools) - Ubuntu system utilities
+- [fedora-42-tools](https://github.com/Nerds489/fedora-42-tools) - Fedora distribution toolkit
+
 ## 🚀 Key Topics
 
 ### Linux Distributions Covered
@@ -57,7 +65,7 @@ All research papers are located in the [`/docs`](./docs) folder.
 - Persistent USB installation methods
 - Immutable vs traditional architectures
 
-## 📋 Prerequisites
+## 𓓋 Prerequisites
 
 For implementing the research findings, you'll need:
 - Basic Linux command line knowledge
@@ -90,7 +98,7 @@ This research is licensed under the MIT License - see the [LICENSE](LICENSE) fil
 
 ## 👤 Author
 
-Research conducted and documented by Jay67
+Research conducted and documented by **Nerds489**
 
 ## 🔄 Last Updated
 
