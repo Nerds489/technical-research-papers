@@ -34,12 +34,6 @@ All research papers are located in the [`/docs`](./docs) folder.
   - Partition planning and optimization
   - Cross-platform compatibility
 
-- [**Linux Mint & Windows 11 Dual Boot Implementation**](./dual-boot-linux-mint-windows11/)
-  - Complete dual-boot setup research and implementation
-  - UEFI/Secure Boot configuration
-  - Partition management strategies
-  - Recovery procedures and scripts
-
 ## 🚀 Key Topics
 
 ### Linux Distributions Covered
