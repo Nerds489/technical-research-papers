@@ -1,28 +1,28 @@
 # Technical Research Repository
 
-A collection of in-depth technical guides and research on Linux distributions, system configurations, and hardware modifications.
+A collection of in-depth technical research papers on Linux distributions, system configurations, and hardware modifications.
 
-## 📚 Documentation
+## 📚 Research Papers
 
-All research documents are located in the [`/docs`](./docs) folder.
+All research papers are located in the [`/docs`](./docs) folder.
 
-### Available Guides
+### Published Research
 
 #### 🎮 Gaming & Emulation
-- [**Linux Portable Emulation Guide**](./docs/linux-portable-emulation-guide.md)
+- [**Linux Portable Emulation Research**](./docs/linux-portable-emulation-guide.md)
   - Comprehensive analysis of Linux distributions for portable emulation stations
   - Cross-hardware compatibility (Steam Deck to desktop PCs)
   - Emulator availability and installation methods
   - Performance optimization techniques
 
-- [**Linux Persistent USB Gaming & Pentesting**](./docs/linux-persistent-usb-gaming-pentesting.md)
+- [**Linux Persistent USB Gaming & Pentesting Research**](./docs/linux-persistent-usb-gaming-pentesting.md)
   - Best distributions for persistent USB installations
   - Gaming optimization on portable media
   - Security testing tools integration
   - Performance considerations for USB-based systems
 
 #### 💻 System Configuration
-- [**Lenovo Legion 5 16IRX9 BIOS Unlock Guide**](./docs/lenovo-legion5-16irx9-bios-unlock.md)
+- [**Lenovo Legion 5 16IRX9 BIOS Unlock Research**](./docs/lenovo-legion5-16irx9-bios-unlock.md)
   - SmokelessRuntimeEFIPatcher (SREP) implementation
   - Advanced BIOS settings access
   - Voltage control and thermal management
@@ -33,6 +33,12 @@ All research documents are located in the [`/docs`](./docs) folder.
   - Bootloader management
   - Partition planning and optimization
   - Cross-platform compatibility
+
+- [**Linux Mint & Windows 11 Dual Boot Implementation**](./dual-boot-linux-mint-windows11/)
+  - Complete dual-boot setup research and implementation
+  - UEFI/Secure Boot configuration
+  - Partition management strategies
+  - Recovery procedures and scripts
 
 ## 🚀 Key Topics
 
@@ -59,7 +65,7 @@ All research documents are located in the [`/docs`](./docs) folder.
 
 ## 📋 Prerequisites
 
-For implementing these guides, you'll need:
+For implementing the research findings, you'll need:
 - Basic Linux command line knowledge
 - Understanding of partition management
 - Familiarity with UEFI/BIOS settings
@@ -68,29 +74,29 @@ For implementing these guides, you'll need:
 
 ## ⚠️ Disclaimer
 
-These guides involve system-level modifications that could potentially:
+These research papers document system-level modifications that could potentially:
 - Void hardware warranties
 - Cause data loss if improperly executed
 - Require system recovery procedures
 
-Always maintain proper backups and understand the risks before proceeding with any modifications.
+Always maintain proper backups and understand the risks before implementing any research findings.
 
 ## 🤝 Contributing
 
 Contributions are welcome! If you have:
-- Corrections or updates to existing guides
-- Additional research on covered topics
-- New guides following similar technical depth
+- Corrections or updates to existing research
+- Additional findings on covered topics
+- New research papers following similar technical depth
 
 Please feel free to submit issues or pull requests.
 
 ## 📝 License
 
-This work is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This research is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
-Research compiled and documented by Jay67
+Research conducted and documented by Jay67
 
 ## 🔄 Last Updated
 

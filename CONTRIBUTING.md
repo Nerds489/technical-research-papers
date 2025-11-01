@@ -8,14 +8,14 @@ Thank you for your interest in contributing to this technical research repositor
 - Check existing issues before creating a new one
 - Provide detailed information about the problem
 - Include hardware specifications when relevant
-- Mention the specific guide or document affected
+- Mention the specific research paper or document affected
 
 ### Suggesting Improvements
 - Open an issue describing the proposed enhancement
 - Explain the benefits and potential impact
 - Link to relevant sources or documentation
 
-### Submitting Changes
+### Submitting Research
 
 1. **Fork the Repository**
    - Create a personal fork on GitHub
@@ -23,18 +23,18 @@ Thank you for your interest in contributing to this technical research repositor
 
 2. **Create a Feature Branch**
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout -b research/your-topic-name
    ```
 
-3. **Make Your Changes**
+3. **Add Your Research**
    - Follow the existing document structure
    - Use clear, technical writing
-   - Include sources and references where applicable
-   - Test any commands or procedures you document
+   - Include sources, citations, and references
+   - Test any procedures or methodologies documented
 
 4. **Commit Guidelines**
    - Write clear, descriptive commit messages
-   - Use present tense ("Add feature" not "Added feature")
+   - Use present tense ("Add research" not "Added research")
    - Reference issues when applicable (#123)
 
 5. **Submit a Pull Request**
@@ -42,22 +42,22 @@ Thank you for your interest in contributing to this technical research repositor
    - Create a pull request with a clear description
    - Link any related issues
 
-## Documentation Standards
+## Research Paper Standards
 
 ### Writing Style
-- Use technical but accessible language
+- Use technical, academic language
 - Define acronyms on first use
-- Include practical examples
-- Provide context for recommendations
+- Include methodology and findings
+- Provide context for conclusions
 
 ### Document Structure
-- Start with a clear summary or TLDR
+- Start with an abstract or executive summary
 - Use hierarchical headings (##, ###, ####)
-- Include table of contents for long documents
+- Include table of contents for long papers
 - Add relevant warnings and disclaimers
 
 ### Technical Accuracy
-- Verify all commands and procedures
+- Verify all procedures and findings
 - Note version requirements
 - Specify hardware compatibility
 - Include troubleshooting sections
@@ -73,11 +73,11 @@ Thank you for your interest in contributing to this technical research repositor
 
 - Be respectful and constructive
 - Focus on technical merit
-- Acknowledge others' contributions
-- Help maintain a welcoming environment
+- Acknowledge others' research
+- Help maintain an academic environment
 
 ## Questions?
 
-Feel free to open an issue for any questions about contributing.
+Feel free to open an issue for any questions about contributing research.
 
-Thank you for helping improve this research collection!
+Thank you for helping expand this research collection!
